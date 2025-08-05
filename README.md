@@ -27,7 +27,7 @@ Brought to you by **[BioGenomix](https://www.linkedin.com/company/biogenomixlab)
 - [NCBI Education Hub](https://www.ncbi.nlm.nih.gov/education/) -  Educational resources and tutorials from the National Center for Biotechnology Information.
 - [Bioinformatics Algorithms (EdX)](https://www.edx.org/course/bioinformatics-algorithms) - Course focusing on computational algorithms for bioinformatics applications. [edX]
 
-## 📘 Əsas Kitablar / PDF E‑Kitablar
+## 📘 Key Books / PDF E‑Books
 
 - *Bioinformatics Data Skills* – O’Reilly’s practical book on data analysis and reproducible data skills. [Vince Buffalo] 
 - *An Introduction to Bioinformatics Algorithms* – Renowned academic textbook by Neil C. Jones & Pavel A. Pevzner.
